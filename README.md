@@ -1,4 +1,4 @@
-![](screenshot.png)
+![](screenshot-2.jpg)
 
 # Projet Developpeur - WordPress - OpenClassrooms
 </br>
