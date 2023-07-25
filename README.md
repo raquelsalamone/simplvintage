@@ -9,8 +9,8 @@
 
 
 ### Projet 3 - Simplvintage <br>
-L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+Simpl Vintage, une marque de vêtements d’occasion, a besoin d’un site simple pour promouvoir l’ouverture de son showroom dans quelques semaines.  
 
 ### Obectif :<br>
-Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, vous travaillez en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. 
+Vous êtes chargé  de céer un site web en utilisant WordPress et Elementor comme page builder. 
 <br>
