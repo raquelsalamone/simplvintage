@@ -3,7 +3,7 @@
 # Projet Developpeur - WordPress - OpenClassrooms
 </br>
 
-### Here's a link to <br>
+### Simplvintage <br>
 <a href="https://raquel-salamone.fr/simplvintage/" target="_blank" alt=Booki style="margin-top: 10px;"> Simplvintage</a>
 </br>
 
